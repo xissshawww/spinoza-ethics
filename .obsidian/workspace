@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "3d4c3d6c61d28e17",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9fb4d124d4002d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70cdee7751b37d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f2217e80b99ef85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aad0322552a5e8dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96ff84d7e994da5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fca543278a835a16",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d4d5ff186d3ea9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7efeca573283e553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c549eea8e8b223ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1eedd362405eb178",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29a6e998297f7607",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9fb4d124d4002d3",
+  "lastOpenFiles": [
+    "readme.md",
+    "伦理学.md",
+    "ethics.md",
+    "未命名.md"
+  ]
+}
