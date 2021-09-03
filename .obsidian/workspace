@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "伦理学.md",
-            "mode": "source"
+            "file": "readme.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d4d5ff186d3ea9b",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "伦理学.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "伦理学.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "伦理学.md"
+                "file": "readme.md"
               }
             }
           }
@@ -114,13 +115,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445
+    "width": 412,
+    "collapsed": true
   },
   "active": "c9fb4d124d4002d3",
   "lastOpenFiles": [
-    "伦理学.md",
-    "ethics.md",
     "readme.md",
-    "未命名.md"
+    "ethics.md",
+    "伦理学.md",
+    "ethics-p1-公则1.md",
+    "ethics-p1-界说1.md",
+    "-公则1.md",
+    "未命名.md",
+    "ethics-p1-界说1-公则1.md",
+    "ethics-p1-界说-1.md",
+    "ethics-p1-.md"
   ]
 }

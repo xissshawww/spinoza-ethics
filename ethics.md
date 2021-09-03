@@ -4,16 +4,7 @@
 
 # [Ethics](https://www.marxists.org/reference/subject/philosophy/works/ne/ethics.htm)
 
----
-
-Source: [https://ebooks.adelaide.edu.au/s/spinoza/benedict/ethics/index.html](https://ebooks.adelaide.edu.au/s/spinoza/benedict/ethics/index.html).
-
----
-
-### Part I.
-
-#### Concerning God.
-
+### Part I. Concerning God.
 #### Definitions.
 
 I. By that which is self-caused, I mean that of which the essence involves existence, or that of which the nature is only conceivable as existent.
@@ -358,10 +349,10 @@ Such are the misconceptions I have undertaken to note; if there are any more of 
 
 ---
 
-### Part II.
 
-#### On the Nature and Origin of the Mind
 
+
+### Part II. On the Nature and Origin of the Mind
 #### Preface
 
 I now pass on to explaining the results, which must necessarily follow from the essence of God, or of the eternal and infinite being; not, indeed, all of them (for we proved in Part i., Prop. xvi., that an infinite number must follow in an infinite number of ways), but only those which are able to lead us, as it were by the hand, to the knowledge of the human mind and its highest blessedness.
@@ -812,10 +803,9 @@ I have thus fulfilled the promise made at the beginning of this note, and I thus
 
 ---
 
-### Part III.
 
-#### On the Origin and Nature of the Emotions
-
+### Part III. On the Origin and Nature of the Emotions
+#### + ==Preface==
 Most writers on the emotions and on human conduct seem to be treating rather of matters outside nature than of natural phenomena following nature’s general laws. They appear to conceive man to be situated in nature as a kingdom within a kingdom: for they believe that he disturbs rather than follows nature’s order, that he has absolute control over his actions, and that he is determined solely by himself. They attribute human infirmities and fickleness, not to the power of nature in general, but to some mysterious flaw in the nature of man, which accordingly they bemoan, deride, despise, or, as usually happens, abuse: he, who succeeds in hitting off the weakness of the human mind more eloquently or more acutely than his fellows, is looked upon as a seer. Still there has been no lack of very excellent men (to whose toil and industry I confess myself much indebted), who have written many noteworthy things concerning the right way of life, and have given much sage advice to mankind. But no one, so far as I know, has defined the nature and strength of the emotions, and the power of the mind against them for their restraint.
 
 I do not forget, that the illustrious Descartes, though he believed, that the mind has absolute power over its actions, strove to explain human emotions by their primary causes, and, at the same time, to point out a way, by which the mind might attain to absolute dominion over them. However, in my opinion, he accomplishes nothing beyond a display of the acuteness of his own great intellect, as I will show in the proper place. For the present I wish to revert to those, who would rather abuse or deride human emotions than understand them. Such persons will, doubtless think it strange that I should attempt to treat of human vice and folly geometrically, and should wish to set forth with rigid reasoning those matters which they cry out against as repugnant to reason, frivolous, absurd, and dreadful. However, such is my plan. Nothing comes to pass in nature, which can be set down to a flaw therein; for nature is always the same, and everywhere one and the same in her efficacy and power of action; that is, nature’s laws and ordinances, whereby all things come to pass and change from one form to another, are everywhere and always the same; so that there should be one and the same method of understanding the nature of all things whatsoever, namely, through nature’s universal laws and rules. Thus the passions of hatred, anger, envy, and so on, considered in themselves, follow from this same necessity and efficacy of nature; they answer to certain definite causes, through which they are understood, and possess certain properties as worthy of being known as the properties of anything else, whereof the contemplation in itself affords us delight. I shall, therefore, treat of the nature and strength of the emotions according to the same method, as I employed heretofore in my investigations concerning God and the mind. I shall consider human actions and desires in exactly the same manner, as though I were concerned with lines, planes, and solids.
@@ -1416,10 +1406,8 @@ When, therefore, I said above that the power of the mind is increased or diminis
 
 ---
 
-### Part IV.
 
-#### Of Human Bondage, or the Strength of the Emotions
-
+### Part IV. Of Human Bondage, or the Strength of the Emotions
 #### Preface
 
 Human infirmity in moderating and checking the emotions I name bondage: for, when a man is a prey to his emotions, he is not his own master, but lies at the mercy of fortune: so much so, that he is often compelled, while seeing that which is better for him, to follow that which is worse. Why this is so, and what is good or evil in the emotions, I propose to show in this part of my treatise. But, before I begin, it would be well to make a few prefatory observations on perfection and imperfection, good and evil.
@@ -1992,10 +1980,8 @@ XXXII. But human power is extremely limited, and is infinitely surpassed by the 
 
 ---
 
-### Part V.
 
-#### Of the Power of the Understanding, or of Human Freedom
-
+### Part V. Of the Power of the Understanding, or of Human Freedom
 #### Preface
 
 At length I pass to the remaining portion of my Ethics, which is concerned with the way leading to freedom. I shall therefore treat therein of the power of the reason, showing how far the reason can control the emotions, and what is the nature of Mental Freedom or Blessedness; we shall then be able to see, how much more powerful the wise man is than the ignorant. It is no part of my design to point out the method and means whereby the understanding may be perfected, nor to show the skill whereby the body may be so tended, as to be capable of the due performance of its functions. The latter question lies in the province of Medicine, the former in the province of Logic. Here, therefore, I repeat, I shall treat only of the power of the mind, or of reason; and I shall mainly show the extent and nature of its dominion over the emotions, for their control and moderation. That we do not possess absolute dominion over them, I have already shown. Yet the Stoics have thought, that the emotions depended absolutely on our will, and that we could absolutely govern them. But these philosophers were compelled, by the protest of experience, not from their own principles, to confess, that no slight practice and zeal is needed to control and moderate them: and this someone endeavoured to illustrate by the example (if I remember rightly) of two dogs, the one a house-dog and the other a hunting-dog. For by long training it could be brought about, that the house-dog should become accustomed to hunt, and the hunting-dog to cease from running after hares. To this opinion Descartes not a little inclines. For he maintained, that the soul or mind is specially united to a particular part of the brain, namely, to that part called the pineal gland, by the aid of which the mind is enabled to feel all the movements which are set going in the body, and also external objects, and which the mind by a simple act of volition can put in motion in various ways. He asserted, that this gland is so suspended in the midst of the brain, that it could be moved by the slightest motion of the animal spirits: further, that this gland is suspended in the midst of the brain in as many different manners, as the animal spirits can impinge thereon; and, again, that as many different marks are impressed on the said gland, as there are different external objects which impel the animal spirits towards it; whence it follows, that if the will of the soul suspends the gland in a position, wherein it has already been suspended once before by the animal spirits driven in one way or another, the gland in its turn reacts on the said spirits, driving and determining them to the condition wherein they were, when repulsed before by a similar position of the gland. He further asserted, that every act of mental volition is united in nature to a certain given motion of the gland. For instance, whenever anyone desires to look at a remote object, the act of volition causes the pupil of the eye to dilate, whereas, if the person in question had only thought of the dilatation of the pupil, the mere wish to dilate it would not have brought about the result, inasmuch as the motion of the gland, which serves to impel the animal spirits towards the optic nerve in a way which would dilate or contract the pupil, is not associated in nature with the wish to dilate or contract the pupil, but with the wish to look at remote or very near objects. Lastly, he maintained that, although every motion of the aforesaid gland seems to have been united by nature to one particular thought out of the whole number of our thoughts from the very beginning of our life, yet it can nevertheless become through habituation associated with other thoughts; this he endeavours to prove in the Passions de l’âme, I.50. He thence concludes, that there is no soul so weak, that it cannot, under proper direction, acquire absolute power over its passions. For passions as defined by him are “perceptions, or feelings, or disturbances of the soul, which are referred to the soul as species, and which (mark the expression) are produced, preserved, and strengthened through some movement of the spirits.” (Passions de l’âme, I.27). But, seeing that we can join any motion of the gland, or consequently of the spirits, to any volition, the determination of the will depends entirely on our own powers; if, therefore, we determine our will with sure and firm decisions in the direction to which we wish our actions to tend, and associate the motions of the passions which we wish to acquire with the said decisions, we shall acquire an absolute dominion over our passions. Such is the doctrine of this illustrious philosopher (in so far as I gather it from his own words); it is one which, had it been less ingenious, I could hardly believe to have proceeded from so great a man. Indeed, I am lost in wonder, that a philosopher, who had stoutly asserted, that he would draw no conclusions which do not follow from self-evident premisses, and would affirm nothing which he did not clearly and distinctly perceive, and who had so often taken to task the scholastics for wishing to explain obscurities through occult qualities, could maintain a hypothesis, beside which occult qualities are commonplace. What does he understand, I ask, by the union of the mind and the body? What clear and distinct conception has he got of thought in most intimate union with a certain particle of extended matter? Truly I should like him to explain this union through its proximate cause. But he had so distinct a conception of mind being distinct from body, that he could not assign any particular cause of the union between the two, or of the mind itself, but was obliged to have recourse to the cause of the whole universe, that is to God. Further, I should much like to know, what degree of motion the mind can impart to this pineal gland, and with what force can it hold it suspended? For I am in ignorance, whether this gland can be agitated more slowly or more quickly by the mind than by the animal spirits, and whether the motions of the passions, which we have closely united with firm decisions, cannot be again disjoined therefrom by physical causes; in which case it would follow that, although the mind firmly intended to face a given danger, and had united to this decision the motions of boldness, yet at the sight of the danger the gland might become suspended in a way, which would preclude the mind thinking of anything except running away. In truth, as there is no common standard of volition and motion, so is there no comparison possible between the powers of the mind and the power or strength of the body; consequently the strength of one cannot in any wise be determined by the strength of the other. We may also add, that there is no gland discoverable in the midst of the brain, so placed that it can thus easily be set in motion in so many ways, and also that all the nerves are not prolonged so far as the cavities of the brain. Lastly, I omit all the assertions which he makes concerning the will and its freedom, inasmuch as I have abundantly proved that his premisses are false. Therefore, since the power of the mind, as I have shown above, is defined by the understanding only, we shall determine solely by the knowledge of the mind the remedies against the emotions, which I believe all have had experience of, but do not accurately observe or distinctly see, and from the same basis we shall deduce all those conclusions, which have regard to the mind’s blessedness.
