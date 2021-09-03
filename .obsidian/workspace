@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
-            "mode": "preview"
+            "file": "伦理学.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "伦理学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "伦理学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,22 +105,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "伦理学.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 445
   },
   "active": "c9fb4d124d4002d3",
   "lastOpenFiles": [
-    "readme.md",
     "伦理学.md",
     "ethics.md",
+    "readme.md",
     "未命名.md"
   ]
 }
