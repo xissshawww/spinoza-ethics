@@ -13,6 +13,28 @@
             "mode": "preview"
           }
         }
+      },
+      {
+        "id": "68beb6f5a04bab59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "伦理学.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1c5af971c525d55e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ethics.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -123,12 +145,12 @@
     "readme.md",
     "ethics.md",
     "伦理学.md",
-    "ethics-p1-公则1.md",
-    "ethics-p1-界说1.md",
-    "-公则1.md",
+    "p1-def1-zh.md",
+    "p1-def1-en.md",
+    "p1-app1.md",
+    "p1-ax1.md",
+    "p1-def1.md",
     "未命名.md",
-    "ethics-p1-界说1-公则1.md",
-    "ethics-p1-界说-1.md",
-    "ethics-p1-.md"
+    "ethics-p1-def1.md"
   ]
 }
