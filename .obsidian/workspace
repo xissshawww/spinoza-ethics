@@ -7,8 +7,11 @@
         "id": "23d197b97e1d327b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           },
           {
@@ -127,6 +134,7 @@
   },
   "active": "23d197b97e1d327b",
   "lastOpenFiles": [
+    "_readme.md",
     "欲望.md",
     "ethics.md",
     "神.md",
@@ -134,7 +142,6 @@
     "上帝.md",
     "p1-app.md",
     "未命名.md",
-    "_readme.md",
     "readme.md",
     "p1-prop14.md"
   ]
