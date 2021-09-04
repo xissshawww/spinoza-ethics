@@ -1,0 +1,1 @@
+神是万物的内因causa immanens，而不是万物的外因causa transiens。

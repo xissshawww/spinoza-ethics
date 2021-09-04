@@ -1,6 +1,6 @@
 ![spinoza](https://www.marxists.org/glossary/people/s/pics/spinoza.jpg)
 
-[[Benedicto Spinoza]] (1677)
+Benedicto Spinoza (1677)
 
 # [Ethics](https://www.marxists.org/reference/subject/philosophy/works/ne/ethics.htm)
 

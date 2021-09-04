@@ -1,3 +1,8 @@
 {
-  "foldHeading": true
+  "foldHeading": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "foldIndent": true,
+  "vimMode": true,
+  "emacsyKeys": false
 }

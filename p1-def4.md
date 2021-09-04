@@ -1,0 +1,1 @@
+属性attributus，我理解为由知性intellectus看来是构成实体的本质的东西。

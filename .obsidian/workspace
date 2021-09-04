@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9fb4d124d4002d3",
+        "id": "23d197b97e1d327b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "readme.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "68beb6f5a04bab59",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "伦理学.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1c5af971c525d55e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ethics.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "欲望",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 214
   },
   "right": {
     "id": "7d4d5ff186d3ea9b",
@@ -99,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,30 +99,43 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "327dcd9404fc3aee",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbfa3cf1b9d0ef43",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 412,
     "collapsed": true
   },
-  "active": "c9fb4d124d4002d3",
+  "active": "23d197b97e1d327b",
   "lastOpenFiles": [
-    "readme.md",
+    "欲望.md",
     "ethics.md",
-    "伦理学.md",
-    "p1-def1-zh.md",
-    "p1-def1-en.md",
-    "p1-app1.md",
-    "p1-ax1.md",
-    "p1-def1.md",
+    "神.md",
+    "实体.md",
+    "上帝.md",
+    "p1-app.md",
     "未命名.md",
-    "ethics-p1-def1.md"
+    "_readme.md",
+    "readme.md",
+    "p1-prop14.md"
   ]
 }

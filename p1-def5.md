@@ -1,0 +1,1 @@
+样式modus，我理解为实体的分殊affectiones，亦即在他物内inalio est通过他物而被认知的东西per alium concip－itur。
