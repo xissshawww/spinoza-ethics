@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "23d197b97e1d327b",
+        "id": "65d75f469e0d7d4a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "伦理学.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "欲望",
+                "query": "同情是",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "伦理学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "伦理学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "伦理学.md"
               }
             }
           },
@@ -132,17 +132,17 @@
     "width": 412,
     "collapsed": true
   },
-  "active": "23d197b97e1d327b",
+  "active": "65d75f469e0d7d4a",
   "lastOpenFiles": [
-    "_readme.md",
-    "欲望.md",
-    "ethics.md",
-    "神.md",
-    "实体.md",
-    "上帝.md",
-    "p1-app.md",
-    "未命名.md",
-    "readme.md",
-    "p1-prop14.md"
+    "伦理学.md",
+    "p4-prop59-n.md",
+    "p4-prop59-proof.md",
+    "p3-defemo4.md",
+    "p4-prop59-anoproof.md",
+    "p4-prop39-n.md",
+    "p4-prop39-proof.md",
+    "p4-prop39.md",
+    "p5-prop33.md",
+    "神.md"
   ]
 }

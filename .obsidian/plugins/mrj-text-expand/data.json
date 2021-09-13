@@ -1,5 +1,5 @@
 {
-  "autoExpand": true,
+  "autoExpand": false,
   "defaultTemplate": "- $link",
   "delay": 5000,
   "excludeCurrent": true,

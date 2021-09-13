@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "foldIndent": true,
   "vimMode": true,
-  "emacsyKeys": false
+  "emacsyKeys": false,
+  "showFrontmatter": false
 }
